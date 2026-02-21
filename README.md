@@ -4,11 +4,11 @@ This repository tracks my journey in learning and practicing core computer scien
 
 ## Roadmap
 
-### Phase 1: Foundations & Complexity Analysis [IN PROGRESS]
-- [ ] **Big O Notation:** Time and space complexity.
-- [ ] **Memory Management:** Stack vs. Heap, pointers/references.
+### Phase 1: Foundations & Complexity Analysis [COMPLETED]
+- [x] **Big O Notation:** Time and space complexity.
+- [x] **Memory Management:** Stack vs. Heap, pointers/references.
 
-### Phase 2: Linear Data Structures [PENDING]
+### Phase 2: Linear Data Structures [IN PROGRESS]
 - [ ] **Arrays & Strings:** Two Pointers, Sliding Window.
 - [ ] **Linked Lists:** Singly, Doubly, and Circular.
 - [ ] **Stacks & Queues:** Implementations and use cases.
