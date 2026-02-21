@@ -9,8 +9,8 @@ This repository tracks my journey in learning and practicing core computer scien
 - [x] **Memory Management:** Stack vs. Heap, pointers/references.
 
 ### Phase 2: Linear Data Structures [IN PROGRESS]
-- [ ] **Arrays & Strings:** Two Pointers, Sliding Window.
-- [ ] **Linked Lists:** Singly, Doubly, and Circular.
+- [x] **Arrays & Strings:** Two Pointers, Sliding Window.
+- [ ] **Linked Lists:** Singly, Doubly, and Circular. [NEXT]
 - [ ] **Stacks & Queues:** Implementations and use cases.
 
 ### Phase 3: The Power of Recursion [PENDING]
