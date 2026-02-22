@@ -27,6 +27,23 @@ Linear data structures organize elements sequentially, where each element is con
 2.  **Efficient Insertion/Deletion:** $O(1)$ at the head (and tail if a tail pointer is maintained).
 3.  **No shifting required:** When deleting an element, you only update pointers.
 
+## 3. Stacks & Queues
+
+Both are "restricted" linear data structures where the order of insertion and removal matters.
+
+### Stack (LIFO - Last In, First Out)
+Think of a stack of plates. You add to the top and take from the top.
+- **Common Operations:** `push` (add), `pop` (remove), `peek` (view top).
+- **Use Cases:** Undo/Redo, Browser History, Function call stack.
+- **Complexity:** All operations are $O(1)$ when implemented with a Linked List.
+
+### Queue (FIFO - First In, First Out)
+Think of a line at a grocery store. The first person in line is the first one served.
+- **Common Operations:** `enqueue` (add to back), `dequeue` (remove from front), `peek` (view first).
+- **Use Cases:** Printers, Task Scheduling, BFS (Breadth-First Search).
+- **Complexity:** All operations are $O(1)$ when implemented with a Linked List (using head and tail pointers).
+
 ---
-Next, we'll implement a **Doubly Linked List** to see how the addition of a `prev` pointer changes things.
+Next, we'll move to **Phase 3: Recursion** to understand how functions can call themselves to solve complex problems.
+
 
