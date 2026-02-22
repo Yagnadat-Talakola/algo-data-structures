@@ -72,8 +72,7 @@ class DoublyLinkedList {
 
 // Testing our Doubly Linked List
 const myDLL = new DoublyLinkedList();
-console.log("
---- Doubly Linked List Operations ---");
+console.log("\n--- Doubly Linked List Operations ---");
 myDLL.append(10);
 myDLL.append(20);
 myDLL.append(30);
@@ -82,6 +81,5 @@ myDLL.prepend(5);
 myDLL.printList();
 myDLL.printReverse();
 
-console.log("
-Summary:");
+console.log("\nSummary:");
 console.log("Doubly Linked Lists allow bidirectional traversal but use more memory per node.");
