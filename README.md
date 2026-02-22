@@ -10,8 +10,8 @@ This repository tracks my journey in learning and practicing core computer scien
 
 ### Phase 2: Linear Data Structures [IN PROGRESS]
 - [x] **Arrays & Strings:** Two Pointers, Sliding Window.
-- [ ] **Linked Lists:** Singly, Doubly, and Circular. [NEXT]
-- [ ] **Stacks & Queues:** Implementations and use cases.
+- [x] **Linked Lists:** Singly, Doubly, and Circular.
+- [ ] **Stacks & Queues:** Implementations and use cases. [NEXT]
 
 ### Phase 3: The Power of Recursion [PENDING]
 - [ ] **Core Concepts:** Base cases, Recursive steps, Call Stack.
