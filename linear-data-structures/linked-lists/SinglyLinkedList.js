@@ -82,23 +82,19 @@ class SinglyLinkedList {
 
 // Testing our Singly Linked List
 const myLinkedList = new SinglyLinkedList();
-console.log("
---- Singly Linked List Operations ---");
+console.log("\n--- Singly Linked List Operations ---");
 myLinkedList.append(10);
 myLinkedList.append(15);
 myLinkedList.append(20);
 myLinkedList.printList();
 
-console.log("
-Prepending 5:");
+console.log("\nPrepending 5:");
 myLinkedList.prepend(5);
 myLinkedList.printList();
 
-console.log("
-Deleting 15:");
+console.log("\nDeleting 15:");
 myLinkedList.delete(15);
 myLinkedList.printList();
 
-console.log("
-Summary:");
+console.log("\nSummary:");
 console.log("Linked Lists: O(1) insertion/deletion at head/tail, but O(n) for random access.");
